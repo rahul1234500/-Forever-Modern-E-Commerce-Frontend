@@ -1,5 +1,3 @@
----
-
 # 🛒 Forever — Premium Modern E-Commerce Frontend
 
 > A high-performance, mobile-first e-commerce storefront engineered with **React 19**, **React Router 7**, and **Tailwind CSS v4**.
