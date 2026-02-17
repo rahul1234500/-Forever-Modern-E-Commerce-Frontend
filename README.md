@@ -56,12 +56,7 @@ You can replace your current README with the version below.
 
 ## 🏠 Homepage & Product Grid
 
-<img width="1920" height="1080" src="https://github.com/user-attachments/assets/a1c58b35-91af-4008-be7e-069f373f950c" />
-<img width="1920" height="1080" src="https://github.com/user-attachments/assets/49d06ed6-acf5-491f-bd97-4b5b38347455" />
-<img width="1920" height="1080" src="https://github.com/user-attachments/assets/289791a3-c8e7-4e16-8d69-049c24a5dad8" />
-<img width="1920" height="1080" src="https://github.com/user-attachments/assets/2becaf5b-dbd6-434f-9ccb-aa60e7bcf3fa" />
-<img width="1920" height="1080" src="https://github.com/user-attachments/assets/5a457e9c-ce53-4270-bed5-8b887456c0d3" />
-<img width="1920" height="1080" src="https://github.com/user-attachments/assets/4c143820-a9cb-45b9-875e-18aa6dd83067" />
+<table> <tr> <td><img src="https://github.com/user-attachments/assets/a1c58b35-91af-4008-be7e-069f373f950c" width="100%"/></td> <td><img src="https://github.com/user-attachments/assets/49d06ed6-acf5-491f-bd97-4b5b38347455" width="100%"/></td> </tr> <tr> <td><img src="https://github.com/user-attachments/assets/289791a3-c8e7-4e16-8d69-049c24a5dad8" width="100%"/></td> <td><img src="https://github.com/user-attachments/assets/2becaf5b-dbd6-434f-9ccb-aa60e7bcf3fa" width="100%"/></td> </tr> <tr> <td><img src="https://github.com/user-attachments/assets/5a457e9c-ce53-4270-bed5-8b887456c0d3" width="100%"/></td> <td><img src="https://github.com/user-attachments/assets/4c143820-a9cb-45b9-875e-18aa6dd83067" width="100%"/></td> </tr> </table>
 
 ### Highlights
 
@@ -74,7 +69,7 @@ You can replace your current README with the version below.
 
 ## 🛍 Product Detail Experience
 
-<img width="1920" height="1080" src="https://github.com/user-attachments/assets/555368de-f5da-4491-85fa-2b3ed13a3176" />
+<table> <tr> <td align="center"> <img src="https://github.com/user-attachments/assets/555368de-f5da-4491-85fa-2b3ed13a3176" width="80%"/> </td> </tr> </table>
 
 ### Highlights
 
@@ -87,9 +82,7 @@ You can replace your current README with the version below.
 
 ## 🛒 Cart & Checkout Flow
 
-<img width="1920" height="1080" src="https://github.com/user-attachments/assets/ccff7338-acd4-4f51-b0a1-2ad0393cb687" />
-<img width="1920" height="1080" src="https://github.com/user-attachments/assets/77b56fcd-54eb-447b-ab86-d631f2d00ddb" />
-<img width="1920" height="1080" src="https://github.com/user-attachments/assets/c7c15197-aea4-49bd-8206-4d99f5f533fd" />
+<table> <tr> <td><img src="https://github.com/user-attachments/assets/ccff7338-acd4-4f51-b0a1-2ad0393cb687" width="100%"/></td> <td><img src="https://github.com/user-attachments/assets/77b56fcd-54eb-447b-ab86-d631f2d00ddb" width="100%"/></td> </tr> <tr> <td colspan="2" align="center"> <img src="https://github.com/user-attachments/assets/c7c15197-aea4-49bd-8206-4d99f5f533fd" width="80%"/> </td> </tr> </table>/>
 
 ### Highlights
 
@@ -198,16 +191,6 @@ src/
 
 ---
 
-# 🎬 Demo Animation
-
-```html
-<p align="center">
-  <img src="demo.gif" width="800" alt="Forever Store Demo">
-</p>
-```
-
----
-
 # 🛠 Installation & Setup
 
 ```bash
@@ -243,12 +226,4 @@ If you like this project, consider giving it a ⭐ on GitHub.
 
 ---
 
-If you want next-level polish, I can:
 
-* Add contribution guidelines
-* Add architecture flow diagram
-* Add performance benchmark section
-* Convert this into portfolio case study format
-* Make it recruiter-optimized for MNC screening
-
-Tell me what level you want next.
